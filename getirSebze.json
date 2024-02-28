@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Mandalina",
+    "price": "₺34,99",
+    "name": "Mandalina",
+    "much": "1 kg",
+    "image": "https://market-product-images-cdn.getirapi.com/product/692f800a-7aee-4bd8-860b-693976430a59.jpg"
+  },
+  {
+    "title": "Portakal",
+    "price": "₺42,99",
+    "name": "Portakal",
+    "much": "1 kg",
+    "image": "https://cdn.getir.com/product/portakal2kg_635bc4824b4e04ddfa6b553d.png"
+  },
+  {
+    "title": "Sıkmalık Portakal",
+    "price": "₺42,99",
+    "name": "Sıkmalık Portakal",
+    "much": "1 kg",
+    "image": "https://cdn.getir.com/product/sikmalikportakal_5da306b1d35ceb79d14320ae.png"
+  },
+  {
+    "title": "Finike Portakalı Sıkmalık",
+    "price": "₺44,99",
+    "name": "Finike Portakalı Sıkmalık",
+    "much": "2 kg",
+    "image": "https://cdn.getir.com/product/sikmalikportakal_5da306b1d35ceb79d14320ae.png"
+  },
+  {
+    "title": "Greyfurt",
+    "price": "₺22,99",
+    "name": "Greyfurt",
+    "much": "1 kg",
+    "image": "https://cdn.getir.com/product/yerlimuz_5f3bbfda27b154538cb46104.png"
+  },
+  {
+    "title": "Yerli Muz",
+    "price": "₺49,99",
+    "name": "Yerli Muz",
+    "much": "750 g",
+    "image": "https://cdn.getir.com/product/yerlimuz_5f3bbfda27b154538cb46104.png"
+  },
+  {
+    "title": "İthal Muz",
+    "price": "₺59,99",
+    "name": "İthal Muz",
+    "much": "650 g",
+    "image": "https://cdn.getir.com/product/yerlimuz_5f3bbfda27b154538cb46104.png"
+  },
+  {
+    "title": "Kivi",
+    "price": "₺44,99",
+    "name": "Kivi",
+    "much": "500 g",
+    "image": "https://cdn.getir.com/product/portakal2kg_635bc4824b4e04ddfa6b553d.png"
+  }
+]
