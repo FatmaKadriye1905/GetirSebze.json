@@ -1,0 +1,881 @@
+{
+    "businesses": [
+      {
+        "id": "DTg3gEo77pb6I1ZgfnlMlg",
+        "alias": "boğaziçi-restaurant-izmir-2",
+        "name": "Boğaziçi Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9_2ou0CcxnJDXDDrMrv3BA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bo%C4%9Fazi%C3%A7i-restaurant-izmir-2?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 9,
+        "categories": [
+          {
+            "alias": "turkish",
+            "title": "Turkish"
+          },
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          }
+        ],
+        "rating": 4.7,
+        "coordinates": {
+          "latitude": 38.405569,
+          "longitude": 27.070974
+        },
+        "transactions": [],
+        "price": "₺₺₺",
+        "location": {
+          "address1": "Bahçelerarası Mah.",
+          "address2": "Mustafa Kemal Sahil Blv.",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "35920",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Bahçelerarası Mah.",
+            "Mustafa Kemal Sahil Blv.",
+            "35920 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902322788888",
+        "display_phone": "+90 232 278 88 88",
+        "distance": 1399.8127839352549
+      },
+      {
+        "id": "LDlQ6k9Ed_SCIZae8x0tbQ",
+        "alias": "sipari-balık-restaurant-izmir",
+        "name": "Sipari Balık Restaurant",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IDcNQYCRb-kfxPcrGY5iyw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sipari-bal%C4%B1k-restaurant-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 7,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "turkish",
+            "title": "Turkish"
+          }
+        ],
+        "rating": 4.7,
+        "coordinates": {
+          "latitude": 38.406137,
+          "longitude": 27.067246
+        },
+        "transactions": [],
+        "location": {
+          "address1": "Haydar Aliyev Bulv. No: 4",
+          "address2": "Balçova",
+          "address3": "",
+          "city": "İzmir",
+          "zip_code": "",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Haydar Aliyev Bulv. No: 4",
+            "Balçova",
+            "İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902322595958",
+        "display_phone": "+90 232 259 59 58",
+        "distance": 1535.507393211485
+      },
+      {
+        "id": "TX7jbmbZcAz6P7tmmn9PYQ",
+        "alias": "ora-lahmacun-izmir-3",
+        "name": "Ora Lahmacun",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t-rrdlSgIuAhWHO116IiEQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ora-lahmacun-izmir-3?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 12,
+        "categories": [
+          {
+            "alias": "kebab",
+            "title": "Kebab"
+          },
+          {
+            "alias": "lahmacun",
+            "title": "Lahmacun"
+          },
+          {
+            "alias": "pita",
+            "title": "Pita"
+          }
+        ],
+        "rating": 4.3,
+        "coordinates": {
+          "latitude": 38.399129,
+          "longitude": 27.091337
+        },
+        "transactions": [],
+        "price": "₺",
+        "location": {
+          "address1": "Göztepe Mah.",
+          "address2": "Mithat Paşa Cad. No:856 D:1/A",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "35320",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Göztepe Mah.",
+            "Mithat Paşa Cad. No:856 D:1/A",
+            "35320 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902322444244",
+        "display_phone": "+90 232 244 42 44",
+        "distance": 2224.8235454481287
+      },
+      {
+        "id": "mjYgC-Hg3PKftLBHtYMylA",
+        "alias": "deniz-restaurant-izmir",
+        "name": "Deniz Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9qUvbIlkdY2QZBkoo-iOgQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/deniz-restaurant-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 15,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          }
+        ],
+        "rating": 4.4,
+        "coordinates": {
+          "latitude": 38.431337,
+          "longitude": 27.136043
+        },
+        "transactions": [],
+        "price": "₺₺₺₺",
+        "location": {
+          "address1": "İzmir Palas Otel",
+          "address2": "Atatürk Cad.  No: 188/ B Alsancak",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "35220",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "İzmir Palas Otel",
+            "Atatürk Cad.  No: 188/ B Alsancak",
+            "35220 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902324644499",
+        "display_phone": "+90 232 464 44 99",
+        "distance": 5249.979218485252
+      },
+      {
+        "id": "TyzRRgfJZyEphNdbl_oSwQ",
+        "alias": "kordonboyu-balık-pişiricisi-izmir-3",
+        "name": "Kordonboyu Balık Pişiricisi",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/93pS4g1O20hTbOT6KhsTbA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kordonboyu-bal%C4%B1k-pi%C5%9Firicisi-izmir-3?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 9,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 38.434901,
+          "longitude": 27.13943
+        },
+        "transactions": [],
+        "price": "₺₺₺",
+        "location": {
+          "address1": "Atatürk Cd. No:214/A",
+          "address2": "Alsancak",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "35480",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Atatürk Cd. No:214/A",
+            "Alsancak",
+            "35480 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902324221590",
+        "display_phone": "+90 232 422 15 90",
+        "distance": 5661.242935872068
+      },
+      {
+        "id": "TIBPVMTthumRzqaTNSn3WQ",
+        "alias": "mezzaluna-izmir",
+        "name": "Mezzaluna",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/adAkQrPWNIwZ6y7I4SOVKg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mezzaluna-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 7,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4.6,
+        "coordinates": {
+          "latitude": 38.4236474649437,
+          "longitude": 27.1287091166347
+        },
+        "transactions": [],
+        "price": "₺₺₺",
+        "location": {
+          "address1": "Akdeniz Mah.",
+          "address2": "Atatürk Cad. No:19",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "35250",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Akdeniz Mah.",
+            "Atatürk Cad. No:19",
+            "35250 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902324896944",
+        "display_phone": "+90 232 489 69 44",
+        "distance": 4418.446274466489
+      },
+      {
+        "id": "4tk6En83eIlsIuQNCDX_8Q",
+        "alias": "cafe-la-cigale-izmir",
+        "name": "Cafe La Cigale",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iJT-rxMUSuK5zQZDb7E9jw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cafe-la-cigale-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 12,
+        "categories": [
+          {
+            "alias": "french",
+            "title": "French"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 38.431544,
+          "longitude": 27.13707
+        },
+        "transactions": [],
+        "price": "₺₺₺",
+        "location": {
+          "address1": "Cumhuriyet Bulv.",
+          "address2": "Fransız Kültür Merkezi No: 152",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Cumhuriyet Bulv.",
+            "Fransız Kültür Merkezi No: 152",
+            "İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902324214780",
+        "display_phone": "+90 232 421 47 80",
+        "distance": 5342.151038686655
+      },
+      {
+        "id": "o5jbJuRylnhtzWZjkES0Wg",
+        "alias": "meşhur-tavacı-recep-usta-izmir",
+        "name": "Meşhur Tavacı Recep Usta",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uEN26EBVPRuMiosEfI9-uQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/me%C5%9Fhur-tavac%C4%B1-recep-usta-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 15,
+        "categories": [
+          {
+            "alias": "turkish",
+            "title": "Turkish"
+          },
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          }
+        ],
+        "rating": 4.3,
+        "coordinates": {
+          "latitude": 38.440797,
+          "longitude": 27.142488
+        },
+        "transactions": [],
+        "price": "₺₺₺",
+        "location": {
+          "address1": "Atatürk Cad. No: 364",
+          "address2": "Alsancak",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "35030",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Atatürk Cad. No: 364",
+            "Alsancak",
+            "35030 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902324638797",
+        "display_phone": "+90 232 463 87 97",
+        "distance": 6167.295682298499
+      },
+      {
+        "id": "N7MdNUa2pTnAiwkpwa5TsA",
+        "alias": "denizpark-cafe-ve-restaurant-izmir",
+        "name": "Denizpark Cafe & Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/miruKN1O-DBT1gUjNvawgQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/denizpark-cafe-ve-restaurant-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 11,
+        "categories": [
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          },
+          {
+            "alias": "turkish",
+            "title": "Turkish"
+          },
+          {
+            "alias": "cafes",
+            "title": "Cafes"
+          }
+        ],
+        "rating": 4.3,
+        "coordinates": {
+          "latitude": 38.453428,
+          "longitude": 27.096904
+        },
+        "transactions": [],
+        "price": "₺₺₺",
+        "location": {
+          "address1": "Hasan Ali Yücel Blv.",
+          "address2": "",
+          "address3": "Karşıyaka",
+          "city": "İzmir",
+          "zip_code": "35590",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Hasan Ali Yücel Blv.",
+            "Karşıyaka",
+            "35590 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902323300029",
+        "display_phone": "+90 232 330 00 29",
+        "distance": 4392.0609989191125
+      },
+      {
+        "id": "N6E7oURSjSrqPZeTD9JFKg",
+        "alias": "bravo-patisserie-izmir-2",
+        "name": "Bravo Patisserie",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r2SxmmI4RYbZjj8OmFSr8g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bravo-patisserie-izmir-2?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 14,
+        "categories": [
+          {
+            "alias": "bakeries",
+            "title": "Bakeries"
+          }
+        ],
+        "rating": 4.9,
+        "coordinates": {
+          "latitude": 38.458194,
+          "longitude": 27.095173
+        },
+        "transactions": [],
+        "price": "₺₺",
+        "location": {
+          "address1": "Bostanlı Mah.",
+          "address2": "Cemal Gürsel Cd. No:111",
+          "address3": "",
+          "city": "İzmir",
+          "zip_code": "35590",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Bostanlı Mah.",
+            "Cemal Gürsel Cd. No:111",
+            "35590 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902323627171",
+        "display_phone": "+90 232 362 71 71",
+        "distance": 4843.886686367253
+      },
+      {
+        "id": "LLnEV_eGmNrsuhZsHhbuBQ",
+        "alias": "cafe-del-mundo-izmir",
+        "name": "Cafe Del Mundo",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n58jizZbYY3VibnuqHviZw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cafe-del-mundo-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 6,
+        "categories": [
+          {
+            "alias": "cafes",
+            "title": "Cafes"
+          },
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          },
+          {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 38.437712,
+          "longitude": 27.142934
+        },
+        "transactions": [],
+        "price": "₺₺",
+        "location": {
+          "address1": "Kıbrıs Sehitleri Cad.",
+          "address2": "Muzaffer Izgü Sok. No:13",
+          "address3": "",
+          "city": "İzmir",
+          "zip_code": "35220",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Kıbrıs Sehitleri Cad.",
+            "Muzaffer Izgü Sok. No:13",
+            "35220 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902324210584",
+        "display_phone": "+90 232 421 05 84",
+        "distance": 6061.205007463107
+      },
+      {
+        "id": "zfpY5tkCTaqW5Y66h_XpOg",
+        "alias": "asansör-restoran-izmir",
+        "name": "Asansör Restoran",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/baLcXfN3Rm9c32MW4zBqXw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/asans%C3%B6r-restoran-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 18,
+        "categories": [
+          {
+            "alias": "french",
+            "title": "French"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 38.408679,
+          "longitude": 27.117661
+        },
+        "transactions": [],
+        "price": "₺₺",
+        "location": {
+          "address1": "Turgut Reis Mah.",
+          "address2": "Şehit Nihatbey Cd. No:76/A",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "03500",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Turgut Reis Mah.",
+            "Şehit Nihatbey Cd. No:76/A",
+            "03500 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902322612662",
+        "display_phone": "+90 232 261 26 62",
+        "distance": 3497.096920851927
+      },
+      {
+        "id": "Xsot0yN9TIbH8dQG1BsqEQ",
+        "alias": "1888-bar-ve-lounge-izmir",
+        "name": "1888 Bar & Lounge",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mRWSiEp0nomCbOdq6drIYA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/1888-bar-ve-lounge-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 5,
+        "categories": [
+          {
+            "alias": "lounges",
+            "title": "Lounges"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 38.438301,
+          "longitude": 27.142225
+        },
+        "transactions": [],
+        "price": "₺",
+        "location": {
+          "address1": "Cumhuriyet Bulv.",
+          "address2": "No: 248",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "35100",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Cumhuriyet Bulv.",
+            "No: 248",
+            "35100 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902324216690",
+        "display_phone": "+90 232 421 66 90",
+        "distance": 6030.264414573318
+      },
+      {
+        "id": "n_AT8Ur2d-R79RzcpowygQ",
+        "alias": "reyhan-pastanesi-izmir-2",
+        "name": "Reyhan Pastanesi",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cWVJW3d0rGPyinlsHrG8Hg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/reyhan-pastanesi-izmir-2?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 9,
+        "categories": [
+          {
+            "alias": "bakeries",
+            "title": "Bakeries"
+          },
+          {
+            "alias": "desserts",
+            "title": "Desserts"
+          },
+          {
+            "alias": "macarons",
+            "title": "Macarons"
+          }
+        ],
+        "rating": 4.7,
+        "coordinates": {
+          "latitude": 38.394492,
+          "longitude": 27.053663
+        },
+        "transactions": [],
+        "price": "₺₺₺",
+        "location": {
+          "address1": "Agora AVM",
+          "address2": "Mithat Paşa Cad. No:1446 K:Giriş",
+          "address3": "Balçova",
+          "city": "İzmir",
+          "zip_code": "35330",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Agora AVM",
+            "Mithat Paşa Cad. No:1446 K:Giriş",
+            "Balçova",
+            "35330 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902322772109",
+        "display_phone": "+90 232 277 21 09",
+        "distance": 3289.5829934626313
+      },
+      {
+        "id": "ZvqSf8cDnslKneT-Y0_RXg",
+        "alias": "mint-izmir-2",
+        "name": "Mint",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p-WTW23X5GjmL7iiqCWrgQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mint-izmir-2?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 5,
+        "categories": [
+          {
+            "alias": "bars",
+            "title": "Bars"
+          },
+          {
+            "alias": "cafes",
+            "title": "Cafes"
+          },
+          {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+          }
+        ],
+        "rating": 4.4,
+        "coordinates": {
+          "latitude": 38.387223262043,
+          "longitude": 27.0449280738831
+        },
+        "transactions": [],
+        "price": "₺",
+        "location": {
+          "address1": "Teleferik Mah.",
+          "address2": "Sakarya Cad. No:129",
+          "address3": "Balçova",
+          "city": "İzmir",
+          "zip_code": "35330",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Teleferik Mah.",
+            "Sakarya Cad. No:129",
+            "Balçova",
+            "35330 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+905067937512",
+        "display_phone": "+90 506 793 75 12",
+        "distance": 4399.602502502942
+      },
+      {
+        "id": "diR1pXVOyH-nvh6r362kUg",
+        "alias": "cafe-la-vie-izmir",
+        "name": "Cafe La Vie",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JvL7ar6gwT_w24KczDU0Ag/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cafe-la-vie-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 7,
+        "categories": [
+          {
+            "alias": "cafes",
+            "title": "Cafes"
+          },
+          {
+            "alias": "coffee",
+            "title": "Coffee & Tea"
+          }
+        ],
+        "rating": 4.7,
+        "coordinates": {
+          "latitude": 38.4534243984897,
+          "longitude": 27.1009753690461
+        },
+        "transactions": [],
+        "price": "₺₺",
+        "location": {
+          "address1": "Bostanlı Mah.",
+          "address2": "Cemal Gürsel Cad. No:407/A",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "35540",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Bostanlı Mah.",
+            "Cemal Gürsel Cad. No:407/A",
+            "35540 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902323643506",
+        "display_phone": "+90 232 364 35 06",
+        "distance": 4531.089498812056
+      },
+      {
+        "id": "uatPh6i8M958kQKlohHTIg",
+        "alias": "bolulu-hasan-usta-izmir",
+        "name": "Bolulu Hasan Usta",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HAFhI1m9dYSQhUSthasVHg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bolulu-hasan-usta-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 5,
+        "categories": [
+          {
+            "alias": "desserts",
+            "title": "Desserts"
+          },
+          {
+            "alias": "icecream",
+            "title": "Ice Cream & Frozen Yogurt"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 38.3976772,
+          "longitude": 27.0847405
+        },
+        "transactions": [],
+        "price": "₺₺",
+        "location": {
+          "address1": "Mithatpaşa Cad. No:965 Güzelyalı",
+          "address2": "Konak",
+          "address3": "",
+          "city": "İzmir",
+          "zip_code": "35260",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Mithatpaşa Cad. No:965 Güzelyalı",
+            "Konak",
+            "35260 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902322467375",
+        "display_phone": "+90 232 246 73 75",
+        "distance": 2162.5893133913105
+      },
+      {
+        "id": "-sJKYogUO-sYUO_zOueH2w",
+        "alias": "yengeç-restaurant-izmir-2",
+        "name": "Yengeç Restaurant",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UjdN7t8vaeOOp8A1-5GE0Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/yenge%C3%A7-restaurant-izmir-2?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 10,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 38.437997,
+          "longitude": 27.141407
+        },
+        "transactions": [],
+        "price": "₺₺₺",
+        "location": {
+          "address1": "Alsancak Mah.",
+          "address2": "Atatürk Cad. No:314/A",
+          "address3": null,
+          "city": "İzmir",
+          "zip_code": "35220",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Alsancak Mah.",
+            "Atatürk Cad. No:314/A",
+            "35220 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902324645757",
+        "display_phone": "+90 232 464 57 57",
+        "distance": 5951.444970503542
+      },
+      {
+        "id": "J73rTi9xL-5p_QF4jbNwqw",
+        "alias": "friends-ve-burgers-izmir",
+        "name": "Friends & Burgers",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-zPH6jamVVkjClz2GKhMdg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/friends-ve-burgers-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 7,
+        "categories": [
+          {
+            "alias": "burgers",
+            "title": "Burgers"
+          },
+          {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+          }
+        ],
+        "rating": 4.4,
+        "coordinates": {
+          "latitude": 38.394887,
+          "longitude": 27.042013
+        },
+        "transactions": [],
+        "price": "₺₺",
+        "location": {
+          "address1": "Bahçelerarası Mah.",
+          "address2": "Mithatpaşa Cad. No:1462/112",
+          "address3": "",
+          "city": "İzmir",
+          "zip_code": "35340",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Bahçelerarası Mah.",
+            "Mithatpaşa Cad. No:1462/112",
+            "35340 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902322782015",
+        "display_phone": "+90 232 278 20 15",
+        "distance": 4010.7230824162875
+      },
+      {
+        "id": "49zs5hiXEFHxWMfNn0qLQQ",
+        "alias": "balıkçı-hasan-izmir",
+        "name": "Balıkçı Hasan",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SEjbdnYP72MUkQRuewZw-w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bal%C4%B1k%C3%A7%C4%B1-hasan-izmir?adjust_creative=r7X0kW6oS75rgVa5JR8s-Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r7X0kW6oS75rgVa5JR8s-Q",
+        "review_count": 5,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          }
+        ],
+        "rating": 4.4,
+        "coordinates": {
+          "latitude": 38.43111,
+          "longitude": 27.135607
+        },
+        "transactions": [],
+        "price": "₺₺₺",
+        "location": {
+          "address1": "Kültür Mah.",
+          "address2": "Atatürk Cad. No:186",
+          "address3": "Konak",
+          "city": "İzmir",
+          "zip_code": "17900",
+          "country": "TR",
+          "state": "35",
+          "display_address": [
+            "Kültür Mah.",
+            "Atatürk Cad. No:186",
+            "Konak",
+            "17900 İzmir",
+            "Turkey"
+          ]
+        },
+        "phone": "+902324641354",
+        "display_phone": "+90 232 464 13 54",
+        "distance": 5206.027656076142
+      }
+    ],
+    "total": 1500,
+    "region": {
+      "center": {
+        "longitude": 27.07855224609375,
+        "latitude": 38.41629332762213
+      }
+    }
+  }
